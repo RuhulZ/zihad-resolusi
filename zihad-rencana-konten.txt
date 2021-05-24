@@ -3,4 +3,5 @@ RENCANA KONTEN ZIHAD
 - prokes 
   * dibuat menggunakan canva
   * konsep pandemi COVID-19
-   ^ ketika bepergian keluar rumah
+   ^ mudik
+   ^ transportasi umum
