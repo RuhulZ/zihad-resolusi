@@ -4,3 +4,4 @@ RENCANA KONTEN ZIHAD
   * dibuat menggunakan canva
   * konsep pandemi COVID-19
    ^ mudik
+   ^ transportasi umum
