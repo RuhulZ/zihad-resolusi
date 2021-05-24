@@ -1,5 +1,6 @@
 RENCANA KONTEN ZIHAD
 
--prokes 
-  *dibuat menggunakan canva
-  *konsep pandemi COVID-19
+- prokes 
+  * dibuat menggunakan canva
+  * konsep pandemi COVID-19
+   ^ mudik
